@@ -1,0 +1,16 @@
+flake8
+black
+isort
+natsort
+numpy
+pandas
+matplotlib
+notebook
+Pillow
+torch
+torchvision
+pytorch_lightning
+
+fastapi
+uvicorn[standard]
+streamlit
