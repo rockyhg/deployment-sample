@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+.venv/
+.vscode/
+.python-version
+.env
+
+data/
+logs/
+tmp.py
